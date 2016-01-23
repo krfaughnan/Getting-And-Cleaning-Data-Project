@@ -94,4 +94,4 @@ run.analysis <- function(dir) {
 }
 
 # Run the analysis.
-run.analysis("/repos/Getting-and-Cleaning-Data-Project/data")
+run.analysis("/Getting-and-Cleaning-Data-Project/data")
