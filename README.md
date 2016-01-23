@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting and Cleaning Data Project
 
 ## run_analysis.R
@@ -57,3 +58,6 @@ The resulting clean dataset is in this repository at: `data/cleaned.txt`. It con
 X_* - feature values (one row of 561 features for a single activity)
 Y_* - activity identifiers (for each row in X_*)
 subject_* - subject identifiers for rows in X_*
+=======
+# Getting-and-Cleaning-Data-Project
+>>>>>>> origin/master
