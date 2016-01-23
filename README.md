@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting and Cleaning Data Project
 
 ## run_analysis.R
@@ -22,18 +21,18 @@ To run the script, source `run_analysis.R`. After running, you will see the foll
 [run_analysis.R] Starting up. 
 [run_analysis.R] Preparing to run analysis. 
 [run_analysis.R] Reading datasets. 
-[run_analysis.R] Getting dataset: /repos/Getting-and-Cleaning-Data-Project/data/test 
+[run_analysis.R] Getting dataset: /Getting-and-Cleaning-Data-Project/data/test 
 [run_analysis.R]   reading features... 
 [run_analysis.R]   reading activities... 
 [run_analysis.R]   reading subjects... 
-[run_analysis.R] Getting dataset: /repos/Getting-and-Cleaning-Data-Project/data/train 
+[run_analysis.R] Getting dataset: /Getting-and-Cleaning-Data-Project/data/train 
 [run_analysis.R]   reading features... 
 [run_analysis.R]   reading activities... 
 [run_analysis.R]   reading subjects... 
 [run_analysis.R] Joining datasets. 
 [run_analysis.R] Melting. 
 [run_analysis.R] Dcasting. 
-[run_analysis.R] Saving clean data to: /repos/Getting-and-Cleaning-Data-Project/data/cleaned.txt 
+[run_analysis.R] Saving clean data to: /Getting-and-Cleaning-Data-Project/data/cleaned.txt 
 ```
 
 ## Process
@@ -60,4 +59,4 @@ Y_* - activity identifiers (for each row in X_*)
 subject_* - subject identifiers for rows in X_*
 =======
 # Getting-and-Cleaning-Data-Project
->>>>>>> origin/master
+
