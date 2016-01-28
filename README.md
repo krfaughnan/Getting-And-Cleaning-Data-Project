@@ -49,11 +49,8 @@ To run the script, source `run_analysis.R`. After running, you will see the foll
 5. Write the clean dataset to disk.
 
 ## Cleaned Data
-
 The resulting clean dataset is in this repository at: `data/cleaned.txt`. It contains one row for each subject/activity pair and columns for subject, activity, and each feature that was a mean or standard deviation from the original dataset.
-
 ## Notes
-
 X_* - feature values (one row of 561 features for a single activity)
 Y_* - activity identifiers (for each row in X_*)
 subject_* - subject identifiers for rows in X_*
